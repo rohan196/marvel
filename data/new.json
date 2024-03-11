@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Island",
+        "year":"2018",
+        "episode":"12 ep",
+        "rating":"6.3/10",
+        "poster_link":"./assets/images/Island.jpg",
+        "des":"On a remote island far from the mainland named Urashima, a man washes ashore, with no recollection of his name or homeland. What he does recall, however, is that he is a time traveler with a mission: to save a certain girl from harm. As nightfall arrives, he meets Rinne Ohara, a girl who sings a tune that reminds him of a specific name—Setsuna—and decides to use it as his own. Knowing another Setsuna herself, Rinne takes him to her household as a servant, hoping that he is the same one she remembers. On the other hand, Setsuna continues to learn more about Urashima, desiring to identify his lost past. He comes to know about the island's folklore, its three great families, and the endemic disease that prevents anyone afflicted from stepping out into the daylight. As the mysteries of his missing memories and Urashima itself unfold, Setsuna must remember his purpose and fulfill his mission as soon as possible. But, as he witnesses the myriad of troubles plaguing the island, Setsuna begins to question—is his temporal displacement merely an effort to change a single girl's fate?",
+        "genre":["Drama,Sci-fi"]
+    },
+    {
+        "name":"KADO: The Right Answer",
+        "year":"2017",
+        "episode":"12 ep",
+        "rating":"6.8/10",
+        "poster_link":"./assets/images/KADO The Right Answer.jpg",
+        "des":"Cool-headed and rational, Koujirou Shindou is a government official and master negotiator with a well-earned reputation. While departing on a business trip, a giant cube materializes and his plane is taken undamaged into the mysterious, indestructible structure. As Japanese authorities attempt to identify the cube's properties and origins, Shindou encounters an otherworldly entity known as Yaha-kui zaShunina, who materializes in the form of a human man. He assures Shindou that the passengers are not in any danger and requests help in negotiations with the human world. Hailing from a higher dimensional universe known as Novo, Yaha-kui zaShunina is able to transfer information between Novo and Shindou's universe through a cube called Kado. Despite having these unfathomable abilities, he does not appear hostile. Instead, he announces that he has come to this world with only one intention: to advance humanity—starting with Japan",
+        "genre":["Sci-fi"]
+    },
+    {
+        "name":"Kabaneri of the Iron Fortress",
+        "year":"2016",
+        "episode":"12 ep",
+        "rating":"7.2/10",
+        "poster_link":"./assets/images/Kabaneri of the Iron Fortress.jpg",
+        "des":"The world is in the midst of the industrial revolution when horrific creatures emerge from a mysterious virus, ripping through the flesh of humans to sate their never-ending appetite. The only way to kill these beings, known as Kabane is by destroying their steel-coated hearts. However, if bitten by one of these monsters, the victim is doomed to a fate worse than death, as the fallen rise once more to join the ranks of their fellow undead. Only the most fortified of civilizations have survived this turmoil, as is the case with the island of Hinomoto, where mankind has created a massive wall to protect themselves from the endless hordes of Kabane. The only way into these giant fortresses is via heavily-armored trains, which are serviced and built by young men such as Ikoma. Having created a deadly weapon that he believes will easily pierce through the hearts of Kabane, Ikoma eagerly awaits the day when he will be able to fight using his new invention. Little does he know, however, that his chance will come much sooner than he expected.",
+        "genre":["Action,Drama,Fantasy,Horror,SuperNatural"]
+    },
+    {
+        "name":"Jormungand Season 2: Perfect Order",
+        "year":"2012",
+        "episode":"12 ep",
+        "rating":"7.95/10",
+        "poster_link":"./assets/images/Jormungand Season 2 Perfect Order.webp",
+        "des":"Still in pursuit of her ambitious goal, ingenious arms dealer Koko Hekmatyar, inexpressive child soldier Jonathan “Jonah” Mar, and the rest of their squad continue their mercenary activities. From professional assassins to private militaries, the group's work constantly puts them in the face of danger. But internal conflicts soon arise after Renato R Socci, one of Koko's bodyguards, is revealed to be an undercover agent for Operation Undershaft —a plan devised by the CIA to infiltrate HCLI and exploit Koko as a tool. Shocked by his betrayal, Koko's leadership is needed now more than ever to rally her squad and rebuild their foundation of trust before they are torn apart. Jormungand: Perfect Order follows Koko and the rest of her crew as they take on persistent adversaries, overcome internal struggles, and make Koko's vision of world peace a reality—where everything is in perfect order.",
+        "genre":["Action,Adventure,Seinen"]
+    }
+]
+

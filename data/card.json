@@ -1,0 +1,75 @@
+[
+    {
+        "name":"Goblin Slayer 2nd Season",
+        "year":"2023",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/Goblin Slayer.jpg",
+        "des":"A band of adventurers, including a human priestess, an elf archer, a dwarf shaman and a lizardman priest, follow a famous goblin hunter on a quest to destroy the hordes of aggressive goblins that threaten to ravage the land.",
+        "genre":["Action","Adventure","Fantasy"]
+    },
+    {
+        "name":"Nanashi Kaidan",
+        "year":"2023",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/nanashi kaiden.webp",
+        "des":"The collection of horror short stories center on those uneasy feelings of something out there that children sense in their lives",
+        "genre":["Horror"]
+    },
+    {
+        "name":"Naruto(Shinkaku Anime)",
+        "year":"2024",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/Naruto(Shinsaku Anime).jpg",
+        "des":"Shinsaku Takasugi (高杉 晋作, Takasugi Shinsaku) is a shinobi from Kumogakure and a Jōnin-Rank ninja. He is regarded as one of the most powerful ninja's in Kumogakure due to his mastery over several chakra natures. Shinsaku is also the first person from Kumogakure to have obtained a Sharingan, and is currently one of the few non uchiha's to possess one. After the Fourth Great Shinobi World War, Shinsaku gained his reputation as a powerful shinobi, and is well-known worldwide for his use of the Sharingan, earning him the moniker Shinsaku the Sharingan Warrior ( 晋作万華鏡の, Sharingan no Shinsaku).",
+        "genre":["Action","Comedy","MaterialArts","Shounen","SuperPower"]
+    },
+    {
+        "name":"The Eminence in Shadow Season 2",
+        "year":"2024",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/The Eminence in Shadow.jpg",
+        "des":"Everything has been going according to plan, but the hour of awakening draws near. Cid Kageno and Shadow Garden investigate the Lawless City, a cesspool where the red moon hangs low in the sky and three powerful monarchs rule the streets. The true draw for Cid, however, is one who can draw blood–the Blood Queen, a vampire who has slumbered in her coffin for eons. Her awakening approaches, and Cid could finally face a day of reckoning.",
+        "genre":["Action","Comedy","Fantasy","Isekai"]
+    },
+    {
+        "name":"Firefighter Daigo: Rescuer in Orange",
+        "year":"2023",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/Firefighter Daigo Rescuer in Orange.webp",
+        "des":"Firefighter! Daigo of Fire Company M (Japanese: め組の大吾, Hepburn: Megumi no Daigo) is a Japanese manga series written and illustrated by Masahito Soda. It was serialized in Shogakukan's shōnen manga magazine Weekly Shōnen Sunday from September 1995 to June 1999, with its chapters collected in 20 tankōbon volumes.The manga has been licensed in North America by Viz Media. An anime film produced by Sunrise was released in July 1999. A television drama adaptation was broadcast on Fuji TV in 2004. A manga sequel, titled Megumi no Daigo: Kyūkoku no Orange, started in Kodansha's Monthly Shōnen Magazine in October 2020. An anime television series adaptation of Megumi no Daigo: Kyūkoku no Orange, produced by Brain's Base, is set to premiere in September 2023",
+        "genre":["Action","Drama","Shounen"]
+    },
+    {
+        "name":"A Girl & Her Guard Dog",
+        "year":"2023",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/A Girl & Her Guard Dog.jpg",
+        "des":"A Girl & Her Guard Dog is a Japanese manga series written and illustrated by Hatsuharu. It has been serialized in Kodansha's shōjo manga magazine Bessatsu Friend since December 2018, with its chapters collected into seven tankōbon volumes as of January 2022.",
+        "genre":["Drama","Romance","School","Shoujo"]
+    },
+    {
+        "name":"FLCL: Grunge",
+        "year":"2023",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/FLCL Grunge.webp",
+        "des":"FLCL: Grunge is a new season of the FLCL series announced on March 17, 2022 via a trailer on Adult Swim. FLCL's creative director, Jason DeMarco, confirmed the series is slated to release in 2023, and will be succeeded by another new season, FLCL: Shoegaze. The season is seemingly in entirely CGI and is continuing to use The Pillows for musical scores.",
+        "genre":["Action","Comedy","Mecha","Parody"]
+    },
+    {
+        "name":"Frieren: Beyond Journey's End",
+        "year":"2023",
+        "episode":"?",
+        "rating":"?",
+        "poster_link":"./assets/images/Frieren Beyond Journey's End.webp",
+        "des":"Frieren: Beyond Journey's End is a Japanese manga series written by Kanehito Yamada and illustrated by Tsukasa Abe. It has been serialized in Shogakukan's shōnen manga magazine Weekly Shōnen Sunday since April 2020, with its chapters collected in ten tankōbon volumes as of March 2023.",
+        "genre":["Adventure","Drama","Fantasy","Shounen"]
+    }
+]
+

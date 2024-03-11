@@ -1,0 +1,201 @@
+[
+    {
+        "name":"One piece",
+        "year":"1999",
+        "episode":"1074 ep",
+        "rating":"9.8/10",
+        "poster_link":"./assets/images/One Piece.png",
+        "des":" One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled into 106 tankōbon volumes as of July 2023.",
+        "genre":["Action,Adventure,Comedy,Drama,Fantasy,Shounen,SuperPower"]
+    },
+    {
+        "name":"Attack on Titan",
+        "year":"2013",
+        "episode":"4 season",
+        "rating":"9.5/10",
+        "poster_link":"./assets/images/Attack on Titan.jpg",
+        "des":"When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks. But the safety they have had for so long is threatened when a colossal Titan smashes through the barriers, causing a flood of the giants into what had been the humans' safe zone. During the carnage that follows, soldier Eren Jaeger sees one of the creatures devour his mother, which leads him to vow that he will kill every Titan. He enlists some friends who survived to help him, and that group is humanity's last hope for avoiding extinction at the hands of the monsters.",
+        "genre":["Action","Mystery","Drama","Fantasy","Shounen","SuperPower","Military"]
+    },
+    {
+        "name":"Bleach",
+        "year":"2004",
+        "episode":"2 season",
+        "rating":"8.5/10",
+        "poster_link":"./assets/images/Bleach.jpg",
+        "des":"Ichigo Kurosaki never asked for the ability to see ghosts -- he was born with the gift. When his family is attacked by a Hollow -- a malevolent lost soul -- Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
+        "genre":["Action","Adventure","Fantasy","Shounen"]
+    },
+    {
+        "name":"Death Note",
+        "year":"2007",
+        "episode":"37 ep",
+        "rating":"9/10",
+        "poster_link":"./assets/images/Death Note.jpg",
+        "des":"Death Note is a Japanese manga series written by Tsugumi Ohba and illustrated by Takeshi Obata. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from December 2003 to May 2006, with its chapters collected in 12 tankōbon volumes",
+        "genre":["Mystery","Shounen","SuperNatural","Police","Psycological","Thriller"]
+    },
+    {
+        "name":"Goblin Slayer",
+        "year":"2018",
+        "episode":"12 ep",
+        "rating":"7/10",
+        "poster_link":"./assets/images/Goblin Slayer.jpg",
+        "des":"Goblin Slayer stylized as GOBLIN SLAYER! in Latin script, is a Japanese dark fantasy light novel series written by Kumo Kagyu and illustrated by Noboru Kannatsuki. A manga adaptation by Kōsuke Kurose is serialized in the Monthly Big Gangan magazine, and a second adaptation by Masahiro Ikeno runs in the same magazine",
+        "genre":["Action","Adventure","Fantasy"]
+    },
+    {
+        "name":"HunterXHunter",
+        "year":"2014",
+        "episode":"148 ep",
+        "rating":"8.5/10",
+        "poster_link":"./assets/images/HunterXHunter.jpg",
+        "des":"Hunter × Hunter is a Japanese manga series written and illustrated by Yoshihiro Togashi. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since March 1998, although the manga has frequently gone on extended hiatuses since 2006.",
+        "genre":["Action","Adventure","Fantasy","Shounen","SuperPower"]
+    },
+    {
+        "name":"Naruto Shippuden",
+        "year":"2007",
+        "episode":"500 ep",
+        "rating":"9/10",
+        "poster_link":"./assets/images/Naruto.png",
+        "des":"Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition on his journey to becoming Hokage in his village.",
+        "genre":["Action","Comedy","MaterialArts","Shounen","SuperPower"]
+    },
+    {
+        "name":"One Punch Man",
+        "year":"2015",
+        "episode":"2 seasons",
+        "rating":"8.5/10",
+        "poster_link":"./assets/images/One Punch Man.jpg",
+        "des":"One-Punch Man is a Japanese superhero manga series created by One. It tells the story of Saitama, a superhero who, because he can defeat any opponent with a single punch, grows bored from a lack of challenge. One wrote the original webcomic manga version in early 2009",
+        "genre":["Action","Comedy","Parody","Sci-fi","SuperPower","SuperNatural"]
+    },
+    {
+        "name":"That Time I Got Reincarnated as a Slime",
+        "year":"2018",
+        "episode":"2 seasons",
+        "rating":"8/10",
+        "poster_link":"./assets/images/That Time I Got Reincarnated as a Slime.jpg",
+        "des":"After an assailant murders office worker Mikami Satoru, he finds himself reborn as a remarkably powerful slime in an alternate world, where he begins a quest to promote harmony among the world's different races.",
+        "genre":["Action","Adventure","Comedy","Fantasy","Isekai"]
+    },
+    {
+        "name":"The Eminence in Shadow",
+        "year":"2023",
+        "episode":"12 ep",
+        "rating":"7.5/10",
+        "poster_link":"./assets/images/The Eminence in Shadow.jpg",
+        "des":"The Eminence in Shadow is a Japanese light novel series written by Daisuke Aizawa and illustrated by Tōzai. It began serialization online in May 2018 on the user-generated novel publishing website Shōsetsuka ni Narō. It was later acquired by Enterbrain, who have published the series since November 2018",
+        "genre":["Action","Comedy","Fantasy","Isekai"]
+    },
+    {
+        "name":"G.A.T.E",
+        "year":"2009",
+        "episode":"24 ep",
+        "rating":"8/10",
+        "poster_link":"./assets/images/G.A.T.E.jpg",
+        "des":"Gate, is a Japanese fantasy novel series written by Takumi Yanai and illustrated by Daisuke Izuka and Kurojishi. Originally, it was serialized from 2006 to 2009 on the user-generated novel publishing website Arcadia until it was acquired by publisher AlphaPolis in 2010",
+        "genre":["Action","Adventure","Fantasy","Military","Isekai"]
+    },
+    {
+        "name":"Blood of Zeus",
+        "year":"2020",
+        "episode":"8 ep",
+        "rating":"7.5/10",
+        "poster_link":"./assets/images/Blood of Zeus.jpg",
+        "des":"Chronicles the illegitimate son of Zeus, a young man tasked with saving heaven and earth despite the interference of a vengeful goddess and her monstrous forces.",
+        "genre":["Action","Fiction"]
+    },
+    {
+        "name":"Tekken Bloodline",
+        "year":"2022",
+        "episode":"6 ep",
+        "rating":"4.4/5",
+        "poster_link":"./assets/images/Tekken Bloodline.jpg",
+        "des":"After losing his home to the powerful enemy Ogre, hot-tempered Jin Kazama trains under his zealous grandfather Heihachi Mishima whilst awaiting his chance for revenge in the lead up to the third King of Iron Fist tournament.",
+        "genre":["Action","Game"]
+    },
+    {
+        "name":"Baki Hanma",
+        "year":"2012",
+        "episode":"2 season",
+        "rating":"6.8/10",
+        "poster_link":"./assets/images/Baki Hanma.jpg",
+        "des":"Baki Hanma trains to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world; five of the world's most violent and brutal death row inmates gather to face Baki.",
+        "genre":["Action","MaterialArts","Shounen","Sports"]
+    },
+    {
+        "name":"Baki the Grapler",
+        "year":"2001",
+        "episode":"2 season",
+        "rating":"8/10",
+        "poster_link":"./assets/images/Baki the Grapler.jpg",
+        "des":"Baki the Grappler is a Japanese manga series written and illustrated by Keisuke Itagaki. It was originally serialized in the shōnen manga magazine Weekly Shōnen Champion from 1991 to 1999 and collected into 42 tankōbon volumes by Akita Shoten.",
+        "genre":["Action","MaterialArts","Shounen","Sports"]
+    },
+    {
+        "name":"Vinland Saga",
+        "year":"2019",
+        "episode":"2 season",
+        "rating":"8/10",
+        "poster_link":"./assets/images/Vinland Saga.jpg",
+        "des":"Vinland Saga is a Japanese historical manga series written and illustrated by Makoto Yukimura. The series is published by Kodansha, and was first serialized in the boys-targeted manga magazine Weekly Shōnen Magazine before moving to the monthly manga magazine Monthly Afternoon, aimed at young adult men",
+        "genre":["Action","Adventure","Drama","Historical","Seinen"]
+    },
+    {
+        "name":"Brouto the next generation",
+        "year":"2017",
+        "episode":"293 ep",
+        "rating":"6/10",
+        "poster_link":"./assets/images/Boruto.jpg",
+        "des":"Boruto Uzumaki follows in his father Naruto's footsteps by training to become a powerful ninja, but being the son of the city's leader comes with its own unique challenges.",
+        "genre":["Action","Adventure","MaterialArts","Shounen","SuperPower"]
+    },
+    {
+        "name":"Rent a Girlfiend",
+        "year":"2020",
+        "episode":"3 season",
+        "rating":"7.5/10",
+        "poster_link":"./assets/images/rent-a-girlfriend.jpg",
+        "des":"Rent-A-Girlfriend, abbreviated as Kanokari, is a Japanese manga series written and illustrated by Reiji Miyajima. It has been serialized in Kodansha's Weekly Shōnen Magazine since July 2017, and has been compiled into thirty-two volumes as of July 2023",
+        "genre":["Comedy","Romance","School","Shounen"]
+    },
+    {
+        "name":"Zom 100:Bucket List of the Dead",
+        "year":"2023",
+        "episode":"6 ep",
+        "rating":"8/10",
+        "poster_link":"./assets/images/Zom 100.jpg",
+        "des":"A young man who works around the clock is nothing more than a corporate drone. All it takes is a zombie outbreak for him to finally feel alive.",
+        "genre":["Action","Comedy","Horror","SuperNatural","Thriller","Seinen"]
+    },
+    {
+        "name":"Horimiya:The Missing Pieces",
+        "year":"2021",
+        "episode":"2 season",
+        "rating":"",
+        "poster_link":"./assets/images/Horimiya The Missing Pieces.jpg",
+        "des":"When Isumi Miyamura meets Kyoko Hori his enjoyment of high school life changes.",
+        "genre":["Comedy","Romance","School","Shounen","Sliceoflife"]
+    },
+    {
+        "name":"Bungo Stray Dogs",
+        "year":"2016",
+        "episode":"5 season",
+        "rating":"7.5/10",
+        "poster_link":"./assets/images/Bungo Stray Dogs.jpg",
+        "des":"Bungo Stray Dogs is a Japanese manga series written by Kafka Asagiri and illustrated by Sango Harukawa, which has been serialized in Kadokawa Shoten's seinen manga magazine Young Ace since 2012. The series follows the members of the Armed Detective Agency as they try to protect Yokohama from the mafia.",
+        "genre":["Action","Comedy","Mystery","SuperNatural","SuperPower","Seinen"]
+    },
+    {
+        "name":"Black Clover",
+        "year":"2017",
+        "episode":"170 ep",
+        "rating":"7.5/10",
+        "poster_link":"./assets/images/Black Clover.jpg",
+        "des":"Black Clover is a Japanese manga series written and illustrated by Yūki Tabata. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from February 2015 to August 2023, and will be moved to Jump Giga starting in its winter 2023 issue.",
+        "genre":["Action","Comedy","Fantasy","Magic","Shounen"]
+    }
+]
+
